@@ -90,7 +90,7 @@ namespace SFXChallenger.SFXTargetSelector
                                 "Gnar", "Hecarim", "Janna", "Jarvan IV", "Leona", "Lulu", "Malphite", "Nami", "Nasus",
                                 "Nautilus", "Nunu", "Olaf", "Rammus", "Renekton", "Sejuani", "Shen", "Shyvana", "Singed",
                                 "Sion", "Skarner", "Sona", "Soraka", "TahmKench", "Taric", "Thresh", "Volibear",
-                                "Warwick", "MonkeyKing", "Yorick", "Zac", "Zyra"
+                                "Warwick", "MonkeyKing", "Yorick", "Zac", "Zyra", "Camille"
                             },
                         Priority = Priority.Low
                     }
